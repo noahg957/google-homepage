@@ -1,0 +1,28 @@
+.container {
+    height: auto;
+    width: 560px;
+    background-color: white;
+    margin: auto;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+
+}
+body {
+    padding: 0px;
+    margin: 0px;
+}
+input {
+    border: 1px solid rgb(192,192,192);
+    border-radius: 20px;
+    width: 560px;
+    height: 39px;
+}
+img {
+
+    height: 92px;
+    width: 272px;
+    margin: 10px;
+}
